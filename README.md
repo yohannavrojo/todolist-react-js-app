@@ -1,3 +1,5 @@
+![image](https://github.com/yohannavrojo/todolist-react-js-app/assets/93559066/3ca1b876-9913-4a53-a86c-e1532cc4a38d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
